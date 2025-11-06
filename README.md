@@ -2,27 +2,17 @@
 
 📘 Overview
 
-This repository documents my hands-on Linux learning journey through OverTheWire Bandit and other practical exercises.
-The goal is to build a deep foundation in Linux fundamentals before advancing into Bash scripting, automation, and DevOps tooling.
+This repository documents my hands-on Linux learning through OverTheWire Bandit and other practical exercises.
+The goal is to build a strong foundation in Linux fundamentals before advancing into Bash scripting, automation, and DevOps tooling.
 
 ⸻
 
 📂 Repository Structure
-
-DevOps-Learning-Linux/
-│
-├── Bandit/
-│   ├── Level-0-to-10.md
-│   ├── Level-11-to-20.md
-│   └── Summary.md
-│
-└── README.md
-
-
-	•	Bandit/ : My step-by-step progress solving OverTheWire Bandit challenges
-	•	Level-0-to-10.md : solutions and notes for beginner levels
-	•	Level-11-to-20.md : solutions for intermediate levels
-	•	Summary.md : key commands, patterns, and takeaways from Bandit 0–20
+•  Bandit/
+		level-0-10.md￼: solutions and notes for beginner levels
+		level-10-20.md￼: solutions for intermediate levels
+		Summary.md￼: key commands, patterns, and takeaways from Bandit 0–20
+•	README.md: main repository overview
 
 ⸻
 
@@ -38,4 +28,5 @@ DevOps-Learning-Linux/
 
 📎 Resources
 	•	OverTheWire Bandit￼
+	•	Explainshell￼
 	•	Stack Overflow￼
