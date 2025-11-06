@@ -1,0 +1,19 @@
+
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace files
+.vscode/
+*.code-workspace
+
+# Temporary / backup files
+*.swp
+*.swo
+*.tmp
+*.bak
+*~
+
+# Log files
+*.log
