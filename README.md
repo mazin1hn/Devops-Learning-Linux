@@ -1,32 +1,51 @@
-🐧 DevOps Learning : Linux
+# 🧑‍💻 DevOps Linux Learning
 
-📘 Overview
+## 📘 Overview
+A personal repository documenting my progress in learning Linux through practical challenges and exercises.  
+This includes solutions and notes from **OverTheWire Bandit**, along with summaries of key Linux concepts and commands.
 
-This repository documents my hands-on Linux learning through OverTheWire Bandit and other practical exercises.
-The goal is to build a strong foundation in Linux fundamentals before advancing into Bash scripting, automation, and DevOps tooling.
+---
 
-⸻
+## 📂 Repository Structure
 
-📂 Repository Structure
-•  Bandit/
-		level-0-10.md￼: solutions and notes for beginner levels
-		level-10-20.md￼: solutions for intermediate levels
-		Summary.md￼: key commands, patterns, and takeaways from Bandit 0–20
-•	README.md: main repository overview
+DevOps-Linux-Learning/
+├── Bandit/
+│   ├── Level-0-to-10.md
+│   ├── Level-10-to-20.md
+│   └── Summary.md
+└── README.md
 
-⸻
+---
 
-🧠 Skills Covered
-	•	Linux file system and permissions
-	•	Command-line navigation and search (find, grep, file)
-	•	Text manipulation and encoding (cat, strings, tr, xxd)
-	•	Compression and archives (tar, gzip, bzip2)
-	•	Network basics (ssh, telnet, openssl, nmap)
-	•	Process automation and shell logic
+## 🎯 Learning Goals
+* Strengthen understanding of Linux fundamentals.  
+* Build confidence navigating and managing files through the command line.  
+* Develop problem-solving skills using real-world Linux tasks.  
+* Create a reference base for future DevOps and scripting work.
 
-⸻
+---
 
-📎 Resources
-	•	OverTheWire Bandit￼
-	•	Explainshell￼
-	•	Stack Overflow￼
+## ⚙️ Tools & Technologies
+* **Operating System:** Linux (via terminal or SSH)  
+* **Editor:** Visual Studio Code  
+* **Version Control:** Git & GitHub  
+
+---
+
+## 🚀 Progress
+* ✅ Completed: Bandit Levels 0–20  
+* 🔄 Ongoing: Bash scripting tasks  
+* 📈 Upcoming: Advanced topics — file permissions, networking, and automation scripts.
+
+---
+
+## 🧩 Quick Links
+* [Bandit Folder](./Bandit)  
+* [Summary Notes](./Bandit/Summary.md)
+
+---
+
+## 🧾 Resources
+* [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)  
+* [Linux Manual (man)](https://man7.org/linux/man-pages/)  
+* [Stack Overflow](https://stackoverflow.com/)  
