@@ -8,12 +8,12 @@ This includes solutions and notes from **OverTheWire Bandit**, along with summar
 
 ## 📂 Repository Structure
 
-DevOps-Linux-Learning/
-├── Bandit/
-│   ├── Level-0-to-10.md
-│   ├── Level-10-to-20.md
-│   └── Summary.md
-└── README.md
+* DevOps-Linux-Learning/
+  * Bandit/
+      * Level-0-to-10.md
+      * Level-10-to-20.md
+      * Summary.md
+  * README.md
 
 ---
 
