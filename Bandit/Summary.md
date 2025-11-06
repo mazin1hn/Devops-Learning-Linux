@@ -87,5 +87,4 @@ Personal Linux notes from completing OverTheWire Bandit (Levels 0–20) — focu
 	•	man <command> — detailed help page
 	•	<command> --help — quick flag reference
 	•	OverTheWire Bandit￼
-	•	Explainshell￼
 	•	Stack Overflow￼
