@@ -1,19 +1,48 @@
-
-
-# macOS / Windows system files
+# =========================================================
+# macOS SYSTEM FILES
+# =========================================================
 .DS_Store
-Thumbs.db
+.AppleDouble
+.LSOverride
+Icon?
+._*
 
-# VS Code workspace files
-.vscode/
-*.code-workspace
-
-# Temporary / backup files
-*.swp
-*.swo
-*.tmp
-*.bak
+# =========================================================
+# LINUX TEMP FILES
+# =========================================================
 *~
+*.swp        # Vim swap files
+*.swo
+.*.swp
+*.tmp
+tmp/
+temp/
 
-# Log files
+# =========================================================
+# SHELL / BASH
+# =========================================================
+# History files
+.bash_history
+.zsh_history
+
+# Local env configs
+.env
+.env.*
+
+# Output / compiled / generated files
 *.log
+*.out
+
+# =========================================================
+# EDITORS
+# =========================================================
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# =========================================================
+# GIT
+# =========================================================
+.gitignore
