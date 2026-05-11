@@ -1,13 +1,13 @@
-# DevOps Linux Learning
+# Linux 
 
 
 
 ## Overview
 
-This repository documents my progress learning Linux through practical challenges and hands-on exercises.  
+This repository documents my progress improving Linux through practical challenges and hands-on exercises.  
 It includes solutions and notes from the OverTheWire Bandit wargame, along with summaries of key Linux concepts and command-line tools.
 
-The goal of this repository is to build strong foundational Linux skills that directly support DevOps, automation, networking, and system administration work.
+The goal of this repository is to bolster strong foundational Linux skills that directly support DevOps, automation, networking, and system administration work.
 
 
 
